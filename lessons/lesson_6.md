@@ -1,4 +1,4 @@
-# Suspense with ac ustom hook
+# Suspense with a custom hook
 
 Create a `pokemon` resource hook. 
 
